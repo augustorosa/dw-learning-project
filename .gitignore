@@ -1,0 +1,25 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# dbt
+dbt/target/
+dbt/logs/
+dbt/dbt_packages/
+dbt/prod-manifest/
+dbt/.user.yml
+
+# secrets: nothing in these ever belongs in git
+.env
+*.env
+keys/
+*.p8
+*.pem
+aws/.brindle-pg-credentials
+sigma/.env
+
+# OS and editor noise
+.DS_Store
+.idea/
+.vscode/

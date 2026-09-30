@@ -1,0 +1,13 @@
+id,entityid,companyname,category,currency,isinactive,lastmodifieddate,_fivetran_deleted
+101,V-0101,Granitepoint Civil,Construction,1,F,2021-01-02 09:00:00,false
+102,V-0102,Northway Trenching,Construction,1,F,2021-01-02 09:00:00,false
+103,V-0103,Tamber Aerial Works,Construction,1,F,2021-01-02 09:00:00,false
+104,V-0104,Ridgefield Splicing,Construction,1,F,2021-01-02 09:00:00,false
+105,V-0105,Lakeshore Fibre Supply,Materials,2,F,2021-01-02 09:00:00,false
+106,V-0106,Maple Conduit Co,Materials,2,F,2021-01-02 09:00:00,false
+107,V-0107,Keel Engineering,Engineering,1,F,2021-01-02 09:00:00,false
+108,V-0108,Bluefin Permitting,Engineering,1,F,2021-01-02 09:00:00,false
+109,V-0109,Oxbow Legal LLP,Professional services,1,F,2021-01-02 09:00:00,false
+110,V-0110,Crestline Pole Services,Utilities,1,F,2021-01-02 09:00:00,false
+111,V-0111,Harrow Staffing,Contract labour,1,F,2021-01-02 09:00:00,false
+112,V-0112,Quarrystone Paving,Construction,1,F,2021-01-02 09:00:00,false

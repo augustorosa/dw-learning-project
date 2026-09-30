@@ -1,0 +1,9 @@
+id,acctnumber,fullname,accttype,_fivetran_deleted
+1,1000,Operating Bank,Bank,false
+2,2000,Accounts Payable,AcctPay,false
+3,1610,CIP : Outside Plant Construction,FixedAsset,false
+4,1620,CIP : Fiber and Materials,FixedAsset,false
+5,1630,CIP : Engineering and Permitting,FixedAsset,false
+6,6100,Professional Fees,Expense,false
+7,6200,Pole Attachment Rent,Expense,false
+8,6300,Contract Labour,Expense,false
